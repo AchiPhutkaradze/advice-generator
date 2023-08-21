@@ -1,13 +1,8 @@
-// const link = "";
 const number = document.getElementById("number");
 const text = document.querySelector(".text");
 const button = document.querySelector(".green-button");
-// console.log(button);
 
 button.addEventListener("click", function () {
-  // let randomNum = Math.floor(Math.random() * 200) + 1;
-  // console.log(randomNum);
-  // number.textContent = randomNum;
   advice();
 });
 
