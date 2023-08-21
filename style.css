@@ -69,4 +69,8 @@ h1 {
   h1 {
     font-size: 11px;
   }
+  .text {
+    font-size: 28px;
+    letter-spacing: -0.3px;
+  }
 }
